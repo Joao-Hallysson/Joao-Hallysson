@@ -2,7 +2,10 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="32" height="32">
 </picture>, sou o João Hallysson</h1>
-<h3 align="center">Um estudante de programação do Brasil</h3>
+<h3 align="center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f984/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f984/512.gif" alt="🦄" width="32" height="32">
+</picture>Um estudante de programação do Brasil</h3>
 
 - 🌱 I’m currently learning **C++, JAVA, Python e HTML**
 
